@@ -7,4 +7,4 @@ This is an accompanying code notebook to the book. Although you might learn a th
 
 Learn by exploring the interactive code notebook:
 
-[![Open the interactive code notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/rishal-hurbans/Grokking-Artificial-Intelligence-Algorithms-Notebook/blob/main/Grokking_Artificial_Intelligence_Algorithms_Notebook.ipynb)
+[![Open the interactive code notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rishal-hurbans/Grokking-Artificial-Intelligence-Algorithms-Notebook/blob/main/Grokking_Artificial_Intelligence_Algorithms_Notebook.ipynb)
